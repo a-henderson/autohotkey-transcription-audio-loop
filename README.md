@@ -16,4 +16,4 @@ An 'audio loop' in this context performs the following actions:
 * Wait 5 seconds
 * Hold F7 for 500 miliseconds, to rewind the recording about a second
 
-The specific times in the loop can be customised in the 'Settings' context menu of the script.
+The specific times in the loop can be customised in the 'Settings' option of the script tray menu.
