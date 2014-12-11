@@ -1,6 +1,8 @@
 autohotkey-transcription-audio-loop
 ===================================
 
+A compiled exe version of the scipt is included for convenience, or install autohotkey and you can use the .ahk version.
+
 A small autohotkey script to allow Play, Pause, Rewind looping of transcription audio software. 
 Designed to work with the default global hot-keys of Express Scribe Transcription Software Pro.
 
